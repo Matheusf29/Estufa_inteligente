@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\estufa.uf2'
+elf = 'build\estufa.elf'
